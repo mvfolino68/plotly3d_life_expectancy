@@ -3,4 +3,4 @@ runtime: python37
 handlers:
 - url: /
   static_files: 2007%20Life%20Expectancy%20by%20Per%20Capita%20GDP%20by%20Population.html
-  upload: 22007%20Life%20Expectancy%20by%20Per%20Capita%20GDP%20by%20Population.html
+  upload: 2007%20Life%20Expectancy%20by%20Per%20Capita%20GDP%20by%20Population.html
