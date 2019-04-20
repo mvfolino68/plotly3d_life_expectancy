@@ -1,11 +1,4 @@
-runtime: python27
-api_version: 1
-threadsafe: true
-
 handlers:
 - url: /
   static_files: 2007%20Life%20Expectancy%20by%20Per%20Capita%20GDP%20by%20Population.html
   upload: 22007%20Life%20Expectancy%20by%20Per%20Capita%20GDP%20by%20Population.html
-
-- url: /
-  static_dir: /
